@@ -1,4 +1,3 @@
-### Hi there 👋
 Hi, I'm Nikita. I working to improve the lives of people in this world.
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 💻 Software Engineer in UAE
