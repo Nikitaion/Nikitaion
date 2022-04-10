@@ -1,4 +1,12 @@
 ### Hi there 👋
+Hi, I'm Nikita. I working to improve the lives of people in this world.
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+- 💻 Software Engineer in UAE
+- 🕐 3+ years in IT
+- 🤔 Looking for open source to contribute
+- 🏆 Numerous certifications in various areas of IT
+
+
 
 <!--
 **Nikitaion/Nikitaion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
