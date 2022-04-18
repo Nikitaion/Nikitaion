@@ -2,8 +2,8 @@ Hi, I'm Nikita. I working to improve the lives of people in this world.
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 💻 Software Engineer in UAE
 - 🕐 3+ years in IT
-- 🤔 Looking for open source to contribute
-- 🏆 Numerous certifications in various areas of IT
+- 🤔 I work with data science and do my own research
+- 🏆 Bachelor degree and many certificates
 
 
 
