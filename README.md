@@ -4,7 +4,7 @@ Hi, I'm Nikita. I working to improve the lives of people in this world.
 - 🕐 3+ years in IT
 - 🤔 Work with data science and do my own research
 - 🏆 Bachelor degree and many certificates
-
+- 📫 linkedin.com/in/nikita-pushkarev
 
 
 <!--
