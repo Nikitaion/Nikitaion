@@ -1,7 +1,7 @@
 Hi, I'm Nikita. I working to improve the lives of people in this world.
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-- 💻 Software Engineer in UAE
-- 🕐 3+ years in IT
+- 💻 Software Engineering Manager in UAE
+- 🕐 5+ years in IT
 - 🤔 Work with data science and do my own research
 - 🏆 Bachelor degree and many certificates
 - 📫 linkedin.com/in/nikita-pushkarev
