@@ -1,9 +1,9 @@
 Hi, I'm Nikita. I working to improve the lives of people in this world.
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-- 💻 Software Engineering Manager in UAE
-- 🕐 5+ years in IT
+- 💻 Head of AI Business Transformation
+- 🕐 10+ years in IT
 - 🤔 Work with data science and do my own research
-- 🏆 Bachelor degree and many certificates
+- 🏆 Speaker | Book writer | Ex startup co-founder
 - 📫 linkedin.com/in/nikita-pushkarev
 
 
